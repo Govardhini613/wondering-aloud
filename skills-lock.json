@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "wondering-aloud": {
+      "source": "Govardhini613/wondering-aloud",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "37d2447d7f7ab6c7c0466eae5bb23a34bd6a2d3ec7daa50373c357fb76f281d7"
+    }
+  }
+}
